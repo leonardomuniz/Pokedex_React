@@ -106,7 +106,6 @@ function App() {
         <Center h={300} color="white">
           <Container>
             <Heading align="center">MONTE TIMES DE POKEMONS <span className="amarelo">MELHORES!</span></Heading><br />
-            <Text fontSize="xl" align="center">Aqui você consegue ver fácilmente as <strong>forças e fraquezas</strong> do seu pokemon ou do  adversário !</Text>
           </Container>
         </Center>
         <Box h={150} />
